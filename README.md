@@ -1,9 +1,3 @@
-# Anonymous Supplementary Figures and Tables
-
-This repository hosts the anonymous supplementary figures and tables referenced in the rebuttal. Reviewers can open the full PDF at [Anonymous.pdf](Anonymous.pdf) or browse the same materials directly on the GitHub page below.
-
-Click any page preview to open the full-resolution image.
-
 ## Supplement Index
 
 | Item | Jump |
